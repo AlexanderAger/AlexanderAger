@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Alexander Ager</h1>
-<h3 align="center">Currently I am studying Computer Science at the University of Bath, possessing a strong passion for Cyber Security as well as data protection. I thoroughly enjoy programming and love working on collaborative group projects.</h3>
+<h2 align="center">Currently I am studying Computer Science at the University of Bath, possessing a strong passion for Cyber Security as well as data protection. I thoroughly enjoy programming and love working on collaborative group projects.</h3>
 
 - 🔭 I’m currently working on **various projects in my second year of University**
 
