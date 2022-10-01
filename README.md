@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **various projects in my second year of University**
 
-- 🌱 I’m currently deepening my knowledge in **Java**
+- 🌱 I’m actively deepening my knowledge in **Java**
 
-- 👨‍💻 All of my projects are available at [temp](temp)
+- 👨‍💻 Some of my projects are available in [My Projects](https://github.com/AlexanderAger/projects.git)
 
 - 💬 Ask me about **Python, Cybersecurity, cryptography :)**
 
