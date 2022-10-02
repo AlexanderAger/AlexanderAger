@@ -3,7 +3,7 @@
 
 - 🔭 I’m working on **various projects in my second year of University**
 
-- 🌱 I’m actively deepening my knowledge in **Java**
+- 🌱 I’m actively deepening my knowledge in **Java** at the moment
 
 - 👨‍💻 Some of my projects are available in [My Projects](https://github.com/AlexanderAger/projects.git)
 
